@@ -1,5 +1,5 @@
 # Hi there 👋
-I’m a Blockchain Developer and Web3 Enthusiast
+I’m a Web3 Developer and Blockchain Enthusiast
 
 ---
 
@@ -9,10 +9,10 @@ I’m a Blockchain Developer and Web3 Enthusiast
 ---
 
 ### 🚀 About Me
-- 👨‍💻 Currently working on [Lumen Token](https://github.com/lucianoZgabriel/Lumen-Token-Eth) and exploring decentralized finance (DeFi).
-- 🧑‍🏫 Sharing knowledge in Web3 and blockchain with my community.
-- 💡 Interested in collaborating on open-source blockchain projects.
 
+- 🔍 Deeply engaged in blockchain technology, with a focus on developing secure, scalable decentralized applications (DApps).
+- 🌱 Constantly exploring new advancements in Web3, decentralized finance (DeFi), and smart contract development.
+- 💡 Open to opportunities that involve pioneering new applications and pushing the boundaries of decentralized systems.
 ---
 
 ### 🔧 Technologies & Tools I Use
