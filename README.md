@@ -26,9 +26,11 @@ I’m a Web3 Developer and Blockchain Enthusiast
 ---
 
 ### 🌟 Featured Projects
+- **[Dapp JoKenPo](https://github.com/lucianoZgabriel/dapp-jokenpo)**: 
 - **[Lumen Token](https://github.com/lucianoZgabriel/Lumen-Token-Eth)**: Custom ERC-20 token deployed on the Sepolia testnet.
 - **[ChronoChain](https://github.com/lucianoZgabriel/ChronoChain)**: An implementation of a blockchain based on Bitcoin's blockchain.
 - **[AuraToken](https://github.com/lucianoZgabriel/AuraToken-BEP20)**: AuraToken is a BEP20-compliant token that extends OpenZeppelin's ERC20 implementation and includes minting functionality.
+- **[Dapp JoKenPo] (https://github.com/lucianoZgabriel/dapp-jokenpo)**: 
 
 ---
 
